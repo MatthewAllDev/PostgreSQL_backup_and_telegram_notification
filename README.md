@@ -17,6 +17,7 @@ Script requires [Python](https://www.python.org/) v3 to run. (tested on v3.8 - W
     * *TG_TOKEN*
     * *ADMIN_TG_ID_LIST*
 3. Run main.py with the required parameters. You can define persistent parameters in config.py.
+
 **Attention!** Parameters passed at startup take precedence over parameters in config.py.
 
 ### Parameters
